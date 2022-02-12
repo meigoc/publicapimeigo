@@ -1,1 +1,17 @@
-Hello
+[
+  {
+    "name": "CryptaBoom",
+    "description": "Майнинг криптовалюты в любом месте.",
+    "link": "https://cryptaboom.tk"
+  },
+  {
+    "name": "SquidGame 1.12.2 Minecraft (GITHUB)",
+    "description": "Игра в кальмара созданная на плагине Skript в Minecraft для версии 1.12.2.",
+    "link": "https://github.com/glebpetr/SquidGameScriptPlugin"
+  },
+  {
+    "name": "MeigoAPI",
+    "description": "Огромное API для моих и возможно ваших программ.",
+    "link": "https://api.meigo.ml"
+  }
+]  
